@@ -42,7 +42,7 @@ services:
     platform: linux/amd64
     restart: always
     ports:
-      - "3000:3000"
+      - "3002:3000"
     volumes:
       - ./:/nodejs/cadviewer-conversion-server
       - /nodejs/cadviewer-conversion-server/node_modules

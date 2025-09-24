@@ -20,3 +20,4 @@ cadviewer/settings/requests-callapiconversion-monitoring.json
 cadviewer/settings/converter-files-analysis.json
 .DS_Store
 exports/*
+node_modules
